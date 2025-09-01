@@ -1,7 +1,7 @@
 # site-thegamefish
 Você começa pequeno e vulnerável. Para evoluir, deve caçar e comer peixes como lulas e arraias. Consumir a presa correta é a chave para se tornar um peixe maior e mais forte
-Index.html
-[Index.html](https://github.com/user-attachments/files/22084897/Index.html)
+
+Index.html[Index.html](https://github.com/user-attachments/files/22084897/Index.html)
 <!DOCTYPE html>
 <html lang="pt-br">
 <head>
